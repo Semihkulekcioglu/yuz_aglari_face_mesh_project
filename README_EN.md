@@ -76,6 +76,9 @@ When the program runs:
 
 This project is licensed under the MIT License.
 
+## Screenshot 
+<img width="640" height="640" alt="Result_2" src="https://github.com/user-attachments/assets/cd724d27-4eed-4563-8d96-5d73efcf85fa" />
+
 ## 📞 Contact
 
 You can open issues for questions or send pull requests.
