@@ -60,6 +60,7 @@ Yüz Ağları/
 - **Çizim Stili**: `drawSpec` parametrelerini değiştirerek görsel stil ayarlayabilirsiniz
 
 ## 📸 Ekran Görüntüleri
+<img width="640" height="640" alt="Result_2" src="https://github.com/user-attachments/assets/cd724d27-4eed-4563-8d96-5d73efcf85fa" />
 
 Program çalıştığında:
 - Yüz ağları gerçek zamanlı olarak çizilir
@@ -73,9 +74,6 @@ Program çalıştığında:
 3. Değişikliklerinizi commit edin (`git commit -am 'Yeni özellik eklendi'`)
 4. Branch'inizi push edin (`git push origin feature/yeni-ozellik`)
 5. Pull Request oluşturun
-
-## Screenshot 
-<img width="640" height="640" alt="Result_2" src="https://github.com/user-attachments/assets/cd724d27-4eed-4563-8d96-5d73efcf85fa" />
 
 ## 📝 Lisans
 
